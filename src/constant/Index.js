@@ -1,0 +1,1 @@
+export let fruits=['apple','dhanimma','grapes','banana','goa'];
